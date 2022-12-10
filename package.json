@@ -1,7 +1,7 @@
 {
   "name": "@rajiv-oss/practice",
   "version": "0.0.2",
-  "description": "",
+  "description": "Learning npm packages lifecycle.",
   "main": "index.js",
   "dependencies": {
     "prettier": "^2.8.1"
@@ -13,7 +13,10 @@
   "publishConfig": {
     "access": "public"
   },
-  "keywords": [],
+  "keywords": [
+    "rajiv",
+    "practice"
+  ],
   "author": "",
   "license": "ISC"
 }
